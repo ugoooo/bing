@@ -2,4 +2,4 @@ Pillow==3.4.2
 pywin32==214
 requests==2.11.1
 selenium==3.141.0
-urllib3==1.25.2
+urllib3==1.26.5
