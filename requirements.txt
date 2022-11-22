@@ -1,4 +1,4 @@
-Pillow==3.4.2
+Pillow==9.3.0
 pywin32==214
 requests==2.11.1
 selenium==3.141.0
